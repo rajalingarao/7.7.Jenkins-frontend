@@ -13,7 +13,7 @@ pipeline {
     //  }
     environment {
         def appVersion = '' //variable declaration here.
-       // nexusURl = 'nexus.lithesh.shop:8081'
+       nexusURl = 'nexus.lithesh.shop:8081'
 
  
     }
